@@ -1,0 +1,6 @@
+{
+  "name": "CPU Scheduling Visualizer",
+  "description": "Interactive CPU scheduling algorithm visualizer and comparative benchmark dashboard featuring FCFS, SJF, Round Robin, and Priority scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
